@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ab-zar
-- 👀 I’m interested in microservice design patterns, microservice security patterns, microservice data consistency.
-- 🌱 I’m currently learning Spring Cloud GateWay, Spring WebFlux, SAGA pattern, Docker, Kubernetes, AWS.
-- 💞️ I’m looking to collaborate on Microservice projects.
+- 👀 I’m interested in design patterns, security patterns, AI driven development.
+- 🌱 I’m currently working in Diffblue.
+- 💞️ I’m looking to collaborate on Go Fiber and Python FastApi projects.
 - 📫 How to reach me email: azbulatovich@gmail.com, telegram @Samnit
 
 <!---
