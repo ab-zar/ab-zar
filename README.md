@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ab-zar
 - 👀 I’m interested in design patterns, security patterns, AI driven development.
-- 🌱 I’m currently working in Diffblue.
-- 💞️ I’m looking to collaborate on Go Fiber and Python FastApi projects.
+- 🌱 I’m currently open to work.
+- 💞️ I’m looking to collaborate on Spring Boot, Fiber, FastApi projects.
 - 📫 How to reach me email: azbulatovich@gmail.com, telegram @Samnit
 
 <!---
